@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author mohamedbouhamed
+ *
+ */
+module testAdneom {
+}
